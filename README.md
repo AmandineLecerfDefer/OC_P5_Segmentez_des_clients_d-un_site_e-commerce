@@ -6,6 +6,10 @@
 
 **Durée totale :** 70 heures
 
+Si vous avez des difficultés à voir le contenu des notebooks, vous pouvez les retrouvez ici :
+[Analyse](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P5_Segmentez_des_clients_d-un_site_e-commerce/blob/main/POLIST_01_notebookanalyse.ipynb),
+[Modélisation](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P5_Segmentez_des_clients_d-un_site_e-commerce/blob/main/POLIST_02_notebookmodelisation.ipynb)
+
 ## Background du projet :
 Vous êtes consultant pour Olist, une solution de vente sur les marketplaces en ligne.
 Olist souhaite que vous fournissiez à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
